@@ -2,5 +2,5 @@
 
 Bot basico para rolagem de dados
 
-Linguagem = Python
+Linguagem = Python \n
 Bibliotecas = Disnake e random
