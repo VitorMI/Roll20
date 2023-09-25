@@ -2,7 +2,7 @@ import disnake
 import random
 from disnake.ext import commands
 
-client = commands.Bot(command_prefix="!")
+client = commands.Bot()
 
 @client.event
 async def on_ready():
