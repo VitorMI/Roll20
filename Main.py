@@ -6,7 +6,7 @@ client = commands.Bot(command_prefix="!")
 
 @client.event
 async def on_ready():
-    print(f"LES FUCKING GOOOO")
+    print(f"Start")
 
 client.load_extension("Dado.Roll")
 
